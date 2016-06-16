@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "proud-outrider-134408",
+  "private_key_id": "c3c26950412edd35167cc9c71700113e98beb470",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEwAIBADANBgkqhkiG9w0BAQEFAASCBKowggSmAgEAAoIBAQCTGnuoJDOnPRHU\nMDedUL4Btq7EaEi30YnhjZ94wiRSQLUCukRVR6/gYXw+ffEvqsDD5tdlWncHZKlg\n0MHN2F4T1HTS62YsNBCyZBeLPKqb8wS/lYFTHKZy+WDi6ufEnciP3MFkmVPZo8mW\nU6RECohzzauRKfhyTE8PWh4fqExyN8ekkb/MTYXTgP4MNX/MPWZ3LP4YH5UgB84p\nj07GY6y7CWK/S4RDIYDOnmp7SjqayK1fXOEMOTf6+BggnSRZ0zXI6XtRH5mGtVoe\nlLMjvB6MzBeXMexP2174yjWzxcpTGu3OYMDFg9PaEaCDb8jmHxlIh+cvtDBUIoPB\nKv389nDVAgMBAAECggEBAIlAgHgVrwwvct8kTf++QkqfBNnE43R/UcLdvRmTKwiD\nz2BII1HenT8iNiaoo8zx6QHf9MFgcwa26UKoBOvnIYAnDwltEdvUiG+p7D3B0P3I\n9Xk8KXo+lR9ZhwiyXKWbAnMYamlOlmnO5Fwaln3VxhMmpxm+q00Z3fpY/xpSkWFP\nN1U8orTNBaRiYeyumCG5qkiYPQ/VRM0bvjZLJgx4QJrI5hy/Q8ZIpvHcBzHQ/erZ\n3rDgY9mfrlNEGLNf4SgFeqljSFDYNGkx1oe5pyW/Psygh5aEe8W+9chI4/KfKO9q\ns1A8AcpqMElsbIiI09T1MG/jbq7YWdaDh9rypzAu5gECgYEAzyDHZMupXqz5UjYs\nuDRWHcKOPcXONx3Gv618e73xuJgtFgkotDYk1F8FPqZbqPPPSCLc4+MPRUJRziJt\n/00ROQCo0a+1AigoLHV52dySUyNzQB3FDhRCbcd58IfgwWRkLO4fMMV8oasuEogA\nnE9egVspipmygTPimcHb20owtzUCgYEAtdAFAEgy+LUOpzOGxmt31m+3KQ1lscwP\nm5SAKMI37GL+DmzdiAB5y+RBzTUr/s4T3WVdWsfadDDk79mbn+8sP3h3HUNM3IaI\nOP3BpWrW6kI2vtPr9mv7kBWSELUeAev4EbKorW4NFFOCjVd/3mBbMGW5d58jKDB8\n4JNV5F+m5yECgYEAnGvfyVI4/WPaAekhypbTtjPYofQBMQSOtPC6guTGaKab3fla\nwQXmuG9uEYsmy6gckRirAnrWbHKSPv8nXNeBuy+xTnHIW/GhrTmmpQ37f0fVYMVa\nrLBGHou3nhuvc71yHbBS480wuxMAf0QwWdtivoPvElnSQdrCNWX+uFQGCEUCgYEA\nqqCD4QThGTnKe65GwPZgrBWB/nv9QYQx7Z/LOvUyyJ0Ksv0GVrmjlG8uNei91k8O\no4uatjSzVrIAWPyPKeSrURG8L/FWM+vp8hpr3tNKyOTFPgfi/gvPNiSYRSfE9qa+\n09UoqkKK8dWBwyYn8cnaKqx9B7+InhILUDPVuxLtryECgYEAvtSPszJ8OQDsW/vo\ncoJ/zw0dJ1oW8FPfc+Lw5VBF6d4Jj30NTZPbKoRuQY/CxtbTEsg4swGKqR3YMJvZ\nyZp00pHV6TlqelLMx/u4bl2geGXfsr24ptsKj7+b3kyeO0F90Dg4j5NktvIqJ8aL\nowniu8/nC9kuBTGnrzXvD/8Ai0I=\n-----END PRIVATE KEY-----\n",
+  "client_email": "visionapi@proud-outrider-134408.iam.gserviceaccount.com",
+  "client_id": "114449853565854507090",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/visionapi%40proud-outrider-134408.iam.gserviceaccount.com"
+}
